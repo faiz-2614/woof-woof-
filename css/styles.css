@@ -1,0 +1,102 @@
+#title{
+   background-color: rgba(235, 149, 149, 0.356);
+}
+h1{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 3rem;
+   text-align: center;
+}
+
+.img-phn{
+   width: 40%;
+   transform: rotate(25deg);
+   right: 30%;
+}
+
+.phn-head{
+   left: 20%;
+}
+.nav-item{
+   font-size: 1.5rem;
+   margin: 0 5px;
+}
+.navbar-brand{
+   font-size: 2rem;
+}
+
+.ftr{
+   text-align: center;
+   padding: 20px ;
+}
+
+#features{
+   padding: 30px 20px;
+}
+.fa{
+   padding-bottom: 10px;
+}
+
+h2{
+   font-size: 2rem;
+   text-align: center;
+   padding-top: 50px;
+   margin: 7% 15%;
+   margin-bottom: 10px;
+  margin-top: 0px;
+   
+}
+
+#testimonials{
+   background-color: rgba(235, 149, 149, 0.356);
+   text-align: center;
+
+}
+.test-img{
+   align-content: center;
+   width: 5%;
+   border-radius: 100%;
+
+}
+
+.img-align{
+   text-align: center;
+   padding-bottom: 100px;
+}
+
+#press{
+   background-color: rgba(235, 149, 149, 0.356);
+   text-align: center;
+   padding-bottom: 50px;
+}
+.img-press{
+   width: 10%;
+}
+
+@media (max-width:1000px){
+   .img-phn{
+      transform: rotate(0);
+   }
+
+   .phn-head{
+      text-align: center;
+      left: 0;
+   }
+}
+
+.card-cn{
+   text-align: center;
+}
+
+.card-title{
+   text-align: center;
+}
+
+#cta{
+   background-color: rgba(235, 149, 149, 0.356);
+   text-align: center;
+   padding: 40px;
+}
+
+#footer{
+   text-align: center;
+}
